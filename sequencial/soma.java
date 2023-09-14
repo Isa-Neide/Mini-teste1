@@ -1,5 +1,5 @@
 import java.util.Scanner;;
-public class Exercicio1 {
+public class soma {
     
     public static void main(String[] args) {
         Scanner leitura=new Scanner(System.in);

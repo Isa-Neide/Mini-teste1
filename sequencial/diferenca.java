@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class diferenca {
     int a, b, c, d;
 
     public static void main(String[] args) {

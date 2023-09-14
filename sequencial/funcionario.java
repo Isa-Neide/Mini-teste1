@@ -1,5 +1,5 @@
 import java.util.Scanner;;
-public class Exercicio4 {
+public class funcionario {
      public static void main(String[] args) {
         int codigo,horas_trabalho;
     double valor_porhora,salario;

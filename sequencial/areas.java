@@ -1,8 +1,8 @@
-package entidade;
+
 
 import java.util.Scanner; //importacao da classe Scanner 
 
-public class Calcular {
+public class areas{
 
 	public static void main(String[] args) {
 		
